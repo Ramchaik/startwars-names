@@ -1,3 +1,1 @@
 # starwars-names
-
-![travis build]()
